@@ -8,10 +8,6 @@ Hi 👋 I am Shobhan Sundar Goutam. This project is made with the help of `HTML`
 <br>
 ![badge-2](https://img.shields.io/badge/-Tailwind--CSS-%2335B2EB)
 
-### Screenshot
-
-![Rode-clone Screenshot](./rode-clone.jpeg)
-
 - ### Learnings from this project:-
 
   - Learned to use Tailwind more accurately.
@@ -20,3 +16,7 @@ Hi 👋 I am Shobhan Sundar Goutam. This project is made with the help of `HTML`
 - It took around _14 hours_ to complete.
 
 - Live Link:- [Rode clone](https://rode-clone-fsjs.netlify.app/)
+
+### Screenshot
+
+![Rode-clone Screenshot](./rode-clone.jpeg)
